@@ -101,4 +101,5 @@ main p, li {
     color: #F0E8C2;
     margin: 0;
     padding: 6px;
+    vertical-align: middle;
 }
